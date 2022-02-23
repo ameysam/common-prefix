@@ -7,7 +7,6 @@
 ## Run: 
 ```$ python3 main.py ```
 
------
 
 ### Input
 ``` ['hello', 'hell', 'hello world'] ```
