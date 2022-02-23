@@ -4,12 +4,16 @@
 
 -----
 
-## Run: ``` python3 main.py ```
+## Run: 
+```$ python3 main.py ```
 
 -----
 
-### Input: ``` ['hello', 'hell', 'hello world'] ```
-### Output: ```hell```
+### Input
+``` ['hello', 'hell', 'hello world'] ```
+
+### Output:
+```hell```
 
 ------
 
